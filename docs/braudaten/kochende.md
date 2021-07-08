@@ -2,7 +2,7 @@
 layout: default
 title: Kochende
 parent: Braudaten
-nav_order: 2
+nav_order: 3
 ---
 
 # Kochende
