@@ -22,7 +22,7 @@ Zielstammwürze nach Kochende
 Würzemenge vor dem Hopfenseihen  
 Zielwürzemenge bei 20 Grad  
 Verdampfungsrate  
-Verdampfungsrate aus Rezept..
+Verdampfungsrate aus Rezept  
 Sudhausausbeute(SHA)  
 Würzemenge nach dem Hopfenseihen  
 Verlust durch das Hopfenseihen  

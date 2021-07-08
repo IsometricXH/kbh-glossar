@@ -26,10 +26,15 @@ Stammwürze bei Kochbeginn
 Zielstammwürze bei Kochbeginn  
 
 ### Kapitel Kochende
-Zielstammwürze  
-Verdampfungsrate  
 Stammwürze bei Kochende  
-Zielstammwürze bei Kochende  
+Zielstammwürze nach Kochende  
+Würzemenge vor dem Hopfenseihen  
+Zielwürzemenge bei 20 Grad  
+Verdampfungsrate  
+Verdampfungsrate aus Rezept  
+Sudhausausbeute(SHA)  
+Würzemenge nach dem Hopfenseihen  
+Verlust durch das Hopfenseihen  
 
 ### Kapitel Anstellen
 effektive Sudhausausbeute  
