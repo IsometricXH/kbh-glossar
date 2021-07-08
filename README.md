@@ -1,1 +1,1 @@
-# jdt-clean
+# kbh-glossar
