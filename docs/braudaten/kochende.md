@@ -17,6 +17,7 @@ nav_order: 3
 ---
 
 ## Kapitel Kochende
+<!---
 Stammwürze bei Kochende  
 Zielstammwürze nach Kochende  
 Würzemenge vor dem Hopfenseihen  
@@ -26,6 +27,7 @@ Verdampfungsrate aus Rezept
 Sudhausausbeute(SHA)  
 Würzemenge nach dem Hopfenseihen  
 Verlust durch das Hopfenseihen  
+-->
 
 ### Stammwürze bei Kochende
 In diesem Feld wird die Stammwürze bei Kochende anhand der Daten von Bierspindel oder Refraktometer in °Plato eingetragen.
