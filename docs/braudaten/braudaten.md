@@ -6,7 +6,39 @@ has_children: true
 permalink: /docs/braudaten
 ---
 
-# Braudaten mit Navigation
+## 3 Reiter Braudaten
+{: .no_toc }
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+## 3. Reiter Braudaten
+## Kapitel Braudatum
+Braudatum  
+
+### Kapitel Kochbeginn
+Zielstammwürze  
+Stammwürze bei Kochbeginn  
+Zielstammwürze bei Kochbeginn  
+
+### Kapitel Kochende
+Zielstammwürze  
+Verdampfungsrate  
+Stammwürze bei Kochende  
+Zielstammwürze bei Kochende  
+
+### Kapitel Anstellen
+effektive Sudhausausbeute  
+benötigte Speisemenge  
+Stammwürze beim Anstellen  
+Zielstammwürze beim Anstellen  
+Effektive Sudhausausbeute  
+Aus Rezept (Effektive Sudhausausbeute)  
+
+### Kapitel Sonstiges
+Sud für Durchschnittsberechnungen
 

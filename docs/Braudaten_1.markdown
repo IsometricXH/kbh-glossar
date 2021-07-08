@@ -16,26 +16,26 @@ nav_order: 3
 ---
 ## 3. Reiter Braudaten
 ## Kapitel Braudatum
-Braudatum
+Braudatum  
 
 ### Kapitel Kochbeginn
-Zielstammwürze
-Stammwürze bei Kochbeginn
-Zielstammwürze bei Kochbeginn
+Zielstammwürze  
+Stammwürze bei Kochbeginn  
+Zielstammwürze bei Kochbeginn  
 
 ### Kapitel Kochende
-Zielstammwürze
-Verdampfungsrate
-Stammwürze bei Kochende
-Zielstammwürze bei Kochende
+Zielstammwürze  
+Verdampfungsrate  
+Stammwürze bei Kochende  
+Zielstammwürze bei Kochende  
 
 ### Kapitel Anstellen
-effektive Sudhausausbeute
-benötigte Speisemenge
-Stammwürze beim Anstellen
-Zielstammwürze beim Anstellen
-Effektive Sudhausausbeute
-Aus Rezept (Effektive Sudhausausbeute)
+effektive Sudhausausbeute  
+benötigte Speisemenge  
+Stammwürze beim Anstellen  
+Zielstammwürze beim Anstellen  
+Effektive Sudhausausbeute  
+Aus Rezept (Effektive Sudhausausbeute)  
 
 ### Kapitel Sonstiges
 Sud für Durchschnittsberechnungen
