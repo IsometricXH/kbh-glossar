@@ -28,5 +28,7 @@ Spunden
 Verlust seit Anstellen
 
 ## Kapitel Jungbiermenge
- 
+Jungbiermenge 
+
 ## Kapitel Sonstiges
+Sonstiges
