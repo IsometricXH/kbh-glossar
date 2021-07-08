@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kochende
-parent: Braudaten-Nav
+parent: Braudaten
 nav_order: 2
 ---
 
