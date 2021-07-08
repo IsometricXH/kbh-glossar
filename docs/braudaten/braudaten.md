@@ -3,7 +3,7 @@ layout: default
 title: Braudaten
 nav_order: 3
 has_children: true
-permalink: /docs/braudaten.html
+permalink: /docs/braudaten
 ---
 
 # Braudaten mit Navigation
