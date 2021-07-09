@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-nav_order: 10
+nav_order: 100
 ---
 
 This is the free Jekyll theme "Just-the-docs". You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

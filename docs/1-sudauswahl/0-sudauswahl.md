@@ -1,16 +1,10 @@
 ---
 layout: page
-title: Rohstoffe
-permalink: /Rohstoffe/
-nav_order: 12
+title: Sudauswahl
+permalink: /Sudauswahl/
+nav_order: 1
 ---
 
-#  Reiter Rohstoffe
+#  Sudauswahl
 
-## Kapitel Malz  
-
-## Kapitel Hopfen  
-
-## Kapitel Hefe  
-
-## Kapitel Zusätze  
+Selektieren/Shift  
