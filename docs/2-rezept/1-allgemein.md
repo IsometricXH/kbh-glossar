@@ -16,7 +16,6 @@ nav_order: 1
 
 ---
 
-
 ### Sudname
 Hier wird der Sudname benannt.
 Namensbestandteile sind bei Bieren von Hobbybrauern oft eine kreative Bezeichnung und der Bierstil. Der kreative Name wird oft als Gegenentwurf zu kommerziellen Bieren gewählt.
