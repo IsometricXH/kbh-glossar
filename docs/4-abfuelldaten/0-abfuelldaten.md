@@ -5,7 +5,7 @@ permalink: /Abfülldaten/
 nav_order: 4
 ---
 
-# 4. Reiter Abfülldaten
+# Reiter Abfülldaten
 ## Kapitel Abfülldatum
 Abfülldatum  
 Beginn der Reifung  
