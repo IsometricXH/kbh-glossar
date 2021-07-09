@@ -2,7 +2,7 @@
 layout: page
 title: Ausrüstung-Sudpfanne
 parent: Ausrüstung
-nav_order: 3
+nav_order: 4
 ---
 
 # Ausrüstung-Sudpfanne
