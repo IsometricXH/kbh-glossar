@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: default
 title: Abfülldaten
 permalink: /Abfülldaten/
 nav_order: 4
+has_children: true
 ---
 
 # Reiter Abfülldaten
+
 ## Kapitel Abfülldatum
 Abfülldatum  
 Beginn der Reifung  
