@@ -11,7 +11,9 @@ permalink: /docs/rezept
 
 ## Allgemeine Angaben
 Sudname  
+Nummer  
 Kategorie  
+Verwalten  
 Anlage  
 
 ## Kapitel Rezept
