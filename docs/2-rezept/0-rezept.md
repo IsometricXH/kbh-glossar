@@ -7,11 +7,12 @@ has_children: true
 permalink: /docs/rezept
 ---
 
-# 2. Reiter Rezept
+# Reiter Rezept
+
 ## Allgemeine Angaben
-Sudname
-Kategorie
-Anlage
+Sudname  
+Kategorie  
+Anlage  
 
 ## Kapitel Rezept
 Menge  
