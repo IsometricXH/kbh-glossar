@@ -6,17 +6,16 @@ has_children: true
 permalink: /docs/braudaten
 ---
 
-## 3 Reiter Braudaten
+## Reiter Braudaten
 {: .no_toc }
 
-## Table of contents
+## Inhalt
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ---
-## 3. Reiter Braudaten
 
 ### Kapitel Braudatum
 Braudatum  

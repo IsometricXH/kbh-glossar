@@ -6,8 +6,10 @@ has_children: true
 nav_order: 11
 ---
 
-# Reiter Ausrüstung  
+# Reiter Ausrüstung
+
 ## Kapitel Tabellen
+
 ### Anlagen
 Hier werden alle Anlagen aufgeführt.
 Anlagen sind definiert als unabdingbare Gerätschaften, mit denen man Malz maischt und Hopfen kocht.

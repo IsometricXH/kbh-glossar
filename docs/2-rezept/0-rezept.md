@@ -9,7 +9,7 @@ permalink: /docs/rezept
 
 # Reiter Rezept
 
-## Allgemeine Angaben
+## Kapitel Allgemeine Angaben
 Sudname  
 Nummer  
 Kategorie  
