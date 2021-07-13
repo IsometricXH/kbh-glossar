@@ -87,7 +87,7 @@ back_to_top_text: "Nach oben"
 
 # footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>Kleiner Brauhelfer Distributed by an <a href=\"https://github.com/kleiner-brauhelfer/kleiner-brauhelfer-2/blob/master/LICENSE">GPL-3.0 License .</a>"
 
-footer_content: "<a href=\"https://github.com/kleiner-brauhelfer/kleiner-brauhelfer-2\">Kleiner Brauhelfer</a> Distributed by an <a href=\"https://github.com/kleiner-brauhelfer/kleiner-brauhelfer-2/blob/master/LICENSE\">GPL-3.0 License. </br> Just-thed-docs Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a> "
+footer_content: "<a href=\"https://github.com/kleiner-brauhelfer/kleiner-brauhelfer-2\">Kleiner Brauhelfer</a> Distributed by an <a href=\"https://github.com/kleiner-brauhelfer/kleiner-brauhelfer-2/blob/master/LICENSE\">GPL-3.0 License. </a> </br> Just-thed-docs Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a> "
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
