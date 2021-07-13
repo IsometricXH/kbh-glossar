@@ -67,26 +67,20 @@ Bei Detailfragen hilft die Fachliteratur oder das Forum der Wahl.
 Hier wird der angepeilte Bittereintrag beim Hopfenkochen des Sudes festgelegt. Fachsprachlich nennt sich der Eintrag Bittere, angegeben mit der Maßeinheit International Bitterness Units (IBU).
 
 Typische Werte für die Bittere in IBU sind:
-Weißbier 
-8 - 15
-Märzen 
-20 - 28
-Export 
-28 - 30
-Kölsch 
-20 - 30
-Stout 
-25 - 40
-Altbier 
-25 - 40
-Pils 
-25 - 45
-IPA 
-40 - 70
-IIPA 
-60 - 120
 
-Neutrales Geschmacksempfinden bei IBU = 2°P Stammwürze
+| Bierstil   | IBU      |
+|:-----------|:-------- |
+| Weißbier   | 8 - 15   |
+| Märzen     | 20 - 28  |
+| Exportbier | 28 - 30  |
+| Altbier    | 25 - 40  |
+| Kölsch     | 20 - 30  |
+| Stout      | 25 - 40  |
+| Pilsener   | 25 - 45  |
+| IPA        | 40 - 70  |
+| IIPA       | 60 - 120 |
+
+Neutrales Geschmacksempfinden bei IBU = 2°P Stammwürze  
 Das Festlegen der richtigen Bittere und damit der passende Hopfen, die passende Hopfenkombination, Zeit und Temperatur ist eines der kreativsten Betätigungsfelder beim Bierbrauen, gehört aber auch mithin zu den größten Herausforderungen. Um ein Gefühl für die richtige Bittere zu bekommen, empfiehlt sich eine gründliche Rezeptrecherche, das Studium von Fachliteratur und nicht zuletzt die Sektionen für Hopfen und Rezepte in den Fachforen.
 Amerikanische Bierbrauer bittern ihre Biere oft nach Empfehlungen des sogenannten Verhältnisses von Bittere und Stammwürze, IBU-To-OG Range Ratio genannt. Allgemein sind diese Angaben den 2015 Style Guidelines des BJCP ähnlich.
 
