@@ -4,7 +4,7 @@ title: Rezept
 permalink: /Rezept/
 nav_order: 2
 has_children: true
-permalink: /docs/rezept
+permalink: /rezept
 ---
 
 # Reiter Rezept
