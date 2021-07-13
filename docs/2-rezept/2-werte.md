@@ -117,20 +117,16 @@ Kohlendioxid im Bier garantiert das prickelnde Geschmackserlebnis, auch Rezens g
 Um Kohlendioxid ins Bier einzutragen, sind Verfahren wie das Karbonisieren mit Speise oder Zucker, das Grünschlauchen oder der Ausbau im Fass (Spunden) gebräuchlich. Der Kohlensäuregehalt schwankt je nach Biertyp und ist Teil eines jeden Bierstils.
 
 Typische Werte für einzelne Bierstile sind: 
-Lager, Pilsner 
-4,00 - 5,50
-Weizenbier 
-6,50 - 9,00
-Britische Ales 
-3,00 - 4,00
-Porter Stout 
-3,40 - 4,50
-Belgische Ales 
-3,80 - 4,80
-Lambic 
-4,80 - 5,50
-Frucht-Lambic 
-6,00 - 9,00
+
+| Bierstil       | CO₂/l       |
+|:---------------|:----------- |
+| Lager, Pilsner | 4,00 - 5,50 |
+| Weizenbier     | 6,50 - 9,00 |
+| Britische Ales | 3,00 - 4,00 |
+| Porter, Stout  | 3,40 - 4,50 |
+| Belgische Ales | 3,80 - 4,80 |
+| Lambic         | 4,80 - 5,50 |
+| Frucht-Lambic  | 6,00 - 9,00 |
 
 ### Reifezeit
 Hier wird die angepeilte Reifezeit des Jungbieres bis zur ersten Verkostung angegeben.
