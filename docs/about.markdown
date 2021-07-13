@@ -5,7 +5,8 @@ permalink: /about/
 nav_order: 100
 ---
 
-This is the free Jekyll theme "Just-the-docs". You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+You can find the source code for Kleiner Brauhelfer at GitHub:
+[Kleiner Brauhelfer](https://github.com/kleiner-brauhelfer/kleiner-brauhelfer-2)
 
 You can find the source code for Just-the-docs at GitHub:
 [Just-the-docs](https://github.com/pmarsceill/just-the-docs)
