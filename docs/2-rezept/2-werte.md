@@ -114,7 +114,7 @@ Fragen werden im Einzelfall hierzu am besten in einem Fachforum beantwortet.
 ### CO2-Gehalt
 Hier wird der erwünschte CO₂-Gehalt definiert.
 Kohlendioxid im Bier garantiert das prickelnde Geschmackserlebnis, auch Rezens genannt. Ziel ist es, das CO₂ gut im Bier einzubinden.
-Um Kohlendioxid ins Bier einzutragen, sind Verfahren wie das Karbonisieren mit Speise oder Zucker, das Grünschlauchen oder der Ausbau im Fass (Spunden) gebräuchlich. Der Kohlensäuregehalt schwankt je nach Biertyp und ist Teil eines jeden Bierstils.
+Um Kohlendioxid ins Bier einzutragen, sind Verfahren wie das Karbonisieren mit Speise oder Zucker, das Grünschlauchen oder der Ausbau im Fass (Spunden) gebräuchlich. Der Kohlensäuregehalt schwankt je nach Biertyp und ist Teil eines jeden Bierstils.  
 
 Typische Werte für einzelne Bierstile sind: 
 
@@ -129,26 +129,28 @@ Typische Werte für einzelne Bierstile sind:
 | Frucht-Lambic  | 6,00 - 9,00 |
 
 ### Reifezeit
-Hier wird die angepeilte Reifezeit des Jungbieres bis zur ersten Verkostung angegeben.
+Hier wird die angepeilte Reifezeit des Jungbieres bis zur ersten Verkostung angegeben.  
+
 Ausgewählte, empfohlene Reifezeiten:
-Alt 3-6 Wochen Frühling, Sommer
-Amber Ale 3-6 Wochen Frühling
-Barley Wine 12 Monate min. Winter
-Bitter 3-6 Wochen herbst
-Blonde 1-4 Wochen Winter
-Doppelbock 4-6 Monate Winter, Frühling
-Dubbel 8 Monate min. Winter
-Fruchtbier 1-4 Wochen Sommer
-Imperial Stout 6-12 Monate Winter
-IPA 4-8 Wochen Frühling, Sommer
-Kölsch 3-6 Wochen Frühling, Sommer
-Märzen 6-8 Wochen Herbst
-Mild Ale 3-6 Wochen Herbst
-Old Ale 2-3 Monate Herbst
-Pale Ale 3-6 Wochen Frühling, Sommer
-Pilsner 4-8 Wochen Frühling, Sommer
-Quadrupel 8 Monate min. Winter
-Rauchbier 3-6 Monate Winter
-Saison 2-3 Wochen Sommer
 
-
+| Bierstil        | Reifezeit         | Saison            |
+|:--------------- |:----------------- |:----------------- |
+| Alt             | 3-6 Wochen        | Frühling, Sommer  |
+| Amber Ale       | 3-6 Wochen        | Frühling          |
+| Barley Wine     | 12 Monate min.    | Winter            |
+| Bitter          | 3-6 Wochen        | Herbst            |
+| Blonde          | 1-4 Wochen        | Winter            |
+| Doppelbock      | 4-6 Monate        | Winter, Frühling  |
+| Dubbel          | 8 Monate min.     | Winter            |
+| Fruchtbier      | 1-4 Wochen        | Sommer            |
+| Imperial Stout  | 6-12 Monate       | Winter            |
+| IPA             | 4-8 Wochen        | Frühling, Sommer  |
+| Kölsch          | 3-6 Wochen        | Frühling, Sommer  |
+| Märzen          | 6-8 Wochen        | Herbst            |
+| Mild Ale        | 3-6 Wochen        | Herbst            |
+| Old Ale         | 2-3 Monate        | Herbst            |
+| Pale Ale        | 3-6 Wochen        | Frühling, Sommer  |
+| Pilsner         | 4-8 Wochen        | Frühling, Sommer  |
+| Quadrupel       | 8 Monate min.     | Winter            |
+| Rauchbier       | 3-6 Monate        | Winter            |
+| Saison          | 2-3 Wochen        | Sommer            |
