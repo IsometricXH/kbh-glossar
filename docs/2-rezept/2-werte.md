@@ -26,6 +26,7 @@ Hiermit wird die angepeilte Stammwürze eingestellt. Der Wert ist von vielen Fak
 Das Erreichen der Stammwürze stellt vor allem für Brauanfänger eine Herausforderung dar. In allen Fällen sollten große Abweichungen vermieden werden, wenn das Ziel ein bestimmter Bierstil ist. Bei Fragen hilft die Fachliteratur oder das Fachforum der Wahl.
 
 Typische Werte für die Stammwürze in °Plato sind:
+
 | Bockbier   | 16 – 17 |
 | Doppelbock | 18 – 19 |
 | Exportbier | 12 – 13 |
