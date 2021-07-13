@@ -18,7 +18,8 @@ Anlagen sind definiert als unabdingbare Gerätschaften, mit denen man Malz maisc
 Hier werden alle Geräte aufgeführt.
 Gerätesind definiert als Gegenstände, die unabhängig zur Konfiguration der Anlage erfasst werden.
 
-### Hier werden alle Sude aufgeführt.
+### Sude
+Hier werden alle Sude aufgeführt.
 Ein Sud ist identisch mit einem umgesetzten Bierrezept.
 
 Kapitel Kernwerte der Anlage  
