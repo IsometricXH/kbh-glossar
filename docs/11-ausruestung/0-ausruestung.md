@@ -16,7 +16,7 @@ Anlagen sind definiert als unabdingbare Gerätschaften, mit denen man Malz maisc
 
 ### Geräte
 Hier werden alle Geräte aufgeführt.
-Gerätesind definiert als Gegenstände, die unabhängig zur Konfiguration der Anlage erfasst werden.
+Geräte sind definiert als Gegenstände, die unabhängig zur Konfiguration der Anlage erfasst werden.
 
 ### Sude
 Hier werden alle Sude aufgeführt.
