@@ -25,8 +25,10 @@ Achtung: Biermenge meint das am Ende konsumierbare Bier mit allen Verlusten und 
 Hiermit wird die angepeilte Stammwürze eingestellt. Der Wert ist von vielen Faktoren abhängig, beispielsweise der Anlage, aber auch Zeit und Zutaten. In manchen Fällen kann es hilfreich sein, zusätzlich ein Mischkreuz zur Berechnung einzusetzen, um die angepeilte Stammwürze zu erreichen.  
 Das Erreichen der Stammwürze stellt vor allem für Brauanfänger eine Herausforderung dar. In allen Fällen sollten große Abweichungen vermieden werden, wenn das Ziel ein bestimmter Bierstil ist. Bei Fragen hilft die Fachliteratur oder das Fachforum der Wahl.
 
-Typische Werte für die Stammwürze in °Plato sind:
+Typische Werte für die Stammwürze sind:
 
+| Bierstil   | °Plato  |
+|:-----------|:--------|
 | Bockbier   | 16 – 17 |
 | Doppelbock | 18 – 19 |
 | Exportbier | 12 – 13 |
@@ -36,18 +38,6 @@ Typische Werte für die Stammwürze in °Plato sind:
 | Helles     | 11 – 13 |
 | Weizen     | 11 – 14 |
 | IPA        | 13 – 18 |
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### Sudhausausbeute
 Hier kann die Sudhausausbeute für den Sud angegeben werden. Im Normalfall sollte der Anlagewert übernommen werden. Wird eine andere Ausbeute erwartet, z.B. durch spezielle Malzgaben, kann der Wert hier verändert werden.
