@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Braudaten
+permalink: /Braudaten
 nav_order: 3
 has_children: true
-permalink: /docs/braudaten
 ---
 
 ## Reiter Braudaten
