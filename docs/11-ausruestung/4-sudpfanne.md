@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Ausrüstung-Sudpfanne
+title: Sudpfanne
 parent: Ausrüstung
 nav_order: 4
 ---
 
-# Ausrüstung-Sudpfanne
+# Sudpfanne
 {: .no_toc }
 
 ## Inhalt
