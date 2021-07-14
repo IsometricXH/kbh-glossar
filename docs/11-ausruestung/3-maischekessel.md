@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Ausrüstung-Maischekessel
+title: Maischekessel
 parent: Ausrüstung
 nav_order: 3
 ---
 
-# Ausrüstung-Maischekessel
+# Maischekessel
 {: .no_toc }
 
 ## Inhalt

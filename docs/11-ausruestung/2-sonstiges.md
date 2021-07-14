@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Ausrüstung-sonstiges
+title: Sonstiges
 parent: Ausrüstung
 nav_order: 2
 ---
 
-# Ausrüstung-sonstiges
+# Sonstiges
 {: .no_toc }
 
 ## Inhalt

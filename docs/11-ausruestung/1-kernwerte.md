@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Ausrüstung-Kernwerte der Anlage
+title: Kernwerte der Anlage
 parent: Ausrüstung
 nav_order: 1
 ---
 
-# Ausrüstung-Kernwerte der Anlage
+# Kernwerte der Anlage
 {: .no_toc }
 
 ## Inhalt
