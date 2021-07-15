@@ -18,7 +18,7 @@ nav_order: 2
 
 ### Menge
 In diesem Feld wird die angepeilte Biermenge eingestellt.
-Zusammen mit Stammwürze und Hauptgussfaktor wird damit unter anderem Hauptguss und und Nachguss definiert.
+Zusammen mit Stammwürze und Hauptgussfaktor wird damit unter anderem Hauptguss und Nachguss definiert.
 Achtung: Biermenge meint das am Ende konsumierbare Bier mit allen Verlusten und nicht, wie manchmal fälschlich angenommen, Haupt- und Nachguss zusammen.
 
 ### Stammwürze
@@ -60,7 +60,7 @@ Bei Fragen hierzu hilft seltener die Fachliteratur, sehr oft aber das Fachforum 
 Beim Brauen mit High-Gravity wird die Würzemenge beim Kochen reduziert, indem stärker eingebraut wird. Erst beim Anstellen wird mit Wasser auf die gewünschte Stammwürze verdünnt.
 Die Methode eignet sich im Rahmen des Möglichen für zu kleine, limitierte Anlagen, um Sude mit hoher Stammwürze zu brauen, bei denen die Ausschlagmenge sonst zu gering wäre. Im Fachsprech werden solche Sude Platobomben genannt. 
 Das High-Gravity-Verfahren ist für eine größere Ausschlagmenge als üblich geeignet. Da das später hinzugegebene Wasser ab einem gewissen Grad nachteilig auf den Geschmack wirkt, ist High Gravity auf 50% beschränkt. 
-Achtung: Viele Hobbybrauer nutzen den Bereich bei weitem nicht aus, sie arbeiten ledigliech zwischen 5% und 20%. Dies hat vor allem geschmackliche Gründe und ist damit der Qualität geschuldet.
+Achtung: Viele Hobbybrauer nutzen den Bereich bei weitem nicht aus, sie arbeiten lediglich zwischen 5% und 20%. Dies hat vor allem geschmackliche Gründe und ist damit der Qualität geschuldet.
 Bei Detailfragen hilft die Fachliteratur oder das Forum der Wahl.
 
 ### Bittere
@@ -88,7 +88,7 @@ Amerikanische Bierbrauer bittern ihre Biere oft nach Empfehlungen des sogenannte
 Hier wird die Kochzeit des Hopfens eingestellt. Dieser Werte hat direkten Einfluss auf die Hopfenausbeute.
 Üblich sind Werte zwischen 60 und 120 Minuten. Die Mindestdauer von 60 Minuten Kochzeit sind ein Schutz der Würze. Grund ist die Eigenschaften von Hopfen empfindliche Würze keimarm zu machen.
 Kurze Kochzeiten führen zu einer geringeren Bildung von Iso-Alphasäure und betonen Begleitbitterstoffe und Aromaöle. Dem steht eine bessere Ausnutzung des Hopfens bei längeren Kochzeiten gegenüber.
-Der Hautpbestandteil der Iso-Alphasäure löst sich bis 60 Minuten. Danach flacht die Kurve bis zum Zeitpunkt von 90 Minuten ab. Zwischen 90 und 120 Minuten ist die Bitterung minimal. Eine nenneswerte Bitterung findet danach nicht mehr statt. Dieses Verhalten von Hopfen ist der Grund für die Kochzeiten der Würze
+Der Hauptbestandteil der Iso-Alphasäure löst sich bis 60 Minuten. Danach flacht die Kurve bis zum Zeitpunkt von 90 Minuten ab. Zwischen 90 und 120 Minuten ist die Bitterung minimal. Eine nennenswerte Bitterung findet danach nicht mehr statt. Dieses Verhalten von Hopfen ist der Grund für die Kochzeiten der Würze
 Die Iso- Betasäure des Hopfens ist bereits nach 30 Minuten isomerisiert, weswegen Hopfen, bei dem es auf die Betasäure ankommt, oft als Aromagabe genutzt wird.
 Hopfen und seine Wirkung ist eines der schwierigsten Themen der Bierbereitung. Nähere Informationen finden sich dazu in der Fachliteratur, Fragen werden in den Fachforen gerne beantwortet.
 
@@ -101,7 +101,7 @@ Unter Nachisomerisierungszeit versteht sich geläufig die Zeitspanne zwischen 10
 Im Reiter Hopfen werden Gaben in dieser Temperaturspanne durch den Begriff Kochende erfasst, Gaben bis oder unterhalb 80°C durch den Begriff Ausschlagen.
 Achtung: Die Nachisomerisierungszeit wird zur Kochdauer addiert. Eine Angabe > 0 ist zwingend. Ohne Angabe der Nachisomerisierungszeit kann die Funktion Ausschlagen im Reiter Kochen nicht aktiviert werden. Die Nachisomerisierungszeit wird positiv angegeben, im Reiter Kochen rechts bei gewähltem Verfahren Ausschlagen erscheint sie negativ. Beispiel: -5min. 
 Bei unter 80°C findet keine Nachisomerisierung mehr statt. Hobbybrauer nutzen diese Temperaturstufe für den gezielten Aromaeintrag.
-Die Zeitspanne der Nachisomerisierung ist abhänigig von den Kühlmöglichkeiten. Sie reicht vom Abkühlen über Nacht für lange bis zu kurzen Ausschlagszeiten wie -5 min mit einer Kühlschlange oder einem Plattenkühler. Längere Zeiten wie -20min und mehr können ohne Hilfsmittel umgesetzt werden.
+Die Zeitspanne der Nachisomerisierung ist abhängig von den Kühlmöglichkeiten. Sie reicht vom Abkühlen über Nacht für lange bis zu kurzen Ausschlagszeiten wie -5 min mit einer Kühlschlange oder einem Plattenkühler. Längere Zeiten wie -20min und mehr können ohne Hilfsmittel umgesetzt werden.
 Manche Brauer wählen bewusst eine etwas längere Nachisomerisierungzeit, um bestimmte Nuancen eines Hopfens, eines Gewürzes oder einer anderen Zutat herauszuarbeiten. Einen guten Eindruck davon vermitteln Rezeptdatenbanken, Fachbücher und Fachforen.
 Verschiedentlich wird die Nachisomerisierungszeit auch Flame-Out genannt, ungenau oft auch als Whirlpool, da dieser Prozessschritt ein Trubabscheidungsverfahren nach dem Kochen beschreibt, der oft mit der Nachisomerisierung zusammenfällt.
 
