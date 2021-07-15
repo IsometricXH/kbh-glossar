@@ -56,12 +56,12 @@ Achtung: Speise neigt zur Infektion bei der Lagerung. Es besteht erhöhte Gefahr
 Die effektive Sudhausausbeute wird aus der gemessenen Stammwürze und Würzemenge beim Anstellen berechnet.
 Der Faktor beschreibt die Effizienz der Brauanlage sowie die Ausbeute der verwendeten Rohstoffe.
 Im Hobbymaßstab wird ein Faktor von 70% angestrebt, liegt aber tatsächlich oft darunter. Im Profibereich sind 80% Zielgröße.
-Dieser Wert bietet Orientierung für die Ausbeute der Schüttungsberechnung. Er wird im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung)](/kbh-glossar/Ausrüstung) zur Durchschnittsberechnung herangezogen werden.
+Dieser Wert bietet Orientierung für die Ausbeute der Schüttungsberechnung. Er wird im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung/)](/kbh-glossar/Ausrüstung) zur Durchschnittsberechnung herangezogen werden.
 
 ### Effektive Sudhausausbeute
 Hier wird die effektive Sudhausausbeute des Rezeptes angegeben. Der Wert errechnet sich aus dem praktischen Brauprozess. In vielen Fällen wird er nicht identisch mit dem im Tab Rezept festgelegten theoretischen Wert sein. Wenn doch, gilt die Anlage als optimal eingestellt.
-Achtung: Weicht der Wert vom Durchschnittsert im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung)](/kbh-glossar/Ausrüstung), respektive dem eingestellten Wert im Tab Rezept ab, kan dies vielfältige Ursachen haben. Ist die Abweichung einmalig, sollte man die Ursache im Rezept selbst suchen.
-Sind Abweichungen die Regel, gilt es die Werte im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung)](/kbh-glossar/Ausrüstung) anzupassen. Zu erwähnen sind hier Maße der Brauanlage, SHA, Verdampfungsrate Durchschnittswerte, Farbkorrektur, Korrektur der Nachguss- und Hauptgussmenge. Dies beseitigt aller Erfahrung nach die meisten Probleme mit abweichenden Werten im Brauprozess.
+Achtung: Weicht der Wert vom Durchschnittsert im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung/)](/kbh-glossar/Ausrüstung), respektive dem eingestellten Wert im Tab Rezept ab, kan dies vielfältige Ursachen haben. Ist die Abweichung einmalig, sollte man die Ursache im Rezept selbst suchen.
+Sind Abweichungen die Regel, gilt es die Werte im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung/)](/kbh-glossar/Ausrüstung) anzupassen. Zu erwähnen sind hier Maße der Brauanlage, SHA, Verdampfungsrate Durchschnittswerte, Farbkorrektur, Korrektur der Nachguss- und Hauptgussmenge. Dies beseitigt aller Erfahrung nach die meisten Probleme mit abweichenden Werten im Brauprozess.
 Ist man sich bei einer neuen Anlage zunächst unsicher, empfiehlt es sich zunächst die voreingestellten Werte des Kleinen Brauhelfers nicht zu verändern, die sich auf vielen Anlagen bewährt haben.Bei Fragen hierzu helfen Fachbücher und Fachforen.
 
 

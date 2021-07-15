@@ -50,11 +50,11 @@ Abhängig von Faktoren, beispielsweise Zusätze, Verdünng und Verlust beim Abf�
 
 ### Verdampfungsrate
 Hier gibt der Kleine Brauhelfer die berechnete Verdampfungsrate pro Stunde des Sudes aus.
-Der Wert fließt in die Duchschnittsberechnung im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung)](/kbh-glossar/Ausrüstung) ein, sofern er nicht als "zu ignorieren" gekennzeichnet wird.
+Der Wert fließt in die Duchschnittsberechnung im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung/)](/kbh-glossar/Ausrüstung) ein, sofern er nicht als "zu ignorieren" gekennzeichnet wird.
 
 ### Verdampfungsrate aus Rezept
 Hier wird die Verdampfungsrate aus dem Rezept angegeben.
-Die Verdampfungsrate kann als Durchschnittswert bisheriger Sude im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung)](/kbh-glossar/Ausrüstung) angegeben und dann im Tab Rezept übernommen werden. Eine zweite Möglichkeit ist es, die Verdampfungsrate im Tab Rezept manuell zu definieren. Der Durchschnittswert einer Anlage im Hobbybrauerbereich liegt bei 10% und ist im Kleinen Brauhelfer im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung)](/kbh-glossar/Ausrüstung) voreingestellt.
+Die Verdampfungsrate kann als Durchschnittswert bisheriger Sude im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung/)](/kbh-glossar/Ausrüstung) angegeben und dann im Tab Rezept übernommen werden. Eine zweite Möglichkeit ist es, die Verdampfungsrate im Tab Rezept manuell zu definieren. Der Durchschnittswert einer Anlage im Hobbybrauerbereich liegt bei 10% und ist im Kleinen Brauhelfer im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung/)](/kbh-glossar/Ausrüstung) voreingestellt.
 Achtung: Zu Beginn der Braudatenerfassung und -berechnung im Kleinen Brauhelfer empfiehlt es sich den voreingestellten Wert nicht zu verändern. Mit spätestens zehn Suden durchschnittlich sollte sich die spezifische Verdampfungsrate der Anlage eingestellt haben.
 
 ### Sudhausausbeute(SHA)
