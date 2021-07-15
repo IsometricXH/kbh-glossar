@@ -16,12 +16,12 @@ Hyperlinks sind nicht inaktiv, sie werden im Kleinen Brauhelfer unter Windows un
 ### Kapitel Malz  
 In diesem Feld werden alle Rohstoffe Malz verwaltet. 
 
-## Kapitel Hopfen  
+### Kapitel Hopfen  
 In diesem Feld werden alle Rohstoffe Hopfen verwaltet. 
 
-## Kapitel Hefe
+### Kapitel Hefe
 In diesem Feld werden alle Rohstoffe Hefe verwaltet.  
 Achtung: Wenn der Gärfaktor im Tab Rezept übernommen werden soll, muss er in der Form <zahl%> eingetragen werden. Beispiel 73%. Sonderzeichen sind nicht zulässig.  
 
-## Kapitel Zusätze
+### Kapitel Zusätze
 In diesem Feld werden alle Rohstoffe Zusätze verwaltet. 
