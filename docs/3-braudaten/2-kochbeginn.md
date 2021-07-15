@@ -53,7 +53,7 @@ Sind Zielwürzemenge und Würzemenge bei Kochbeginn weitegehend identisch, ist d
 
 ### Füllhöhe von der Oberkante
 Hier wird die Füllhöhe des Maischekessels von der Oberkante zur Berechnung der Würzemenge angegeben.
-Grundlage der Berechnung sind die Angaben im [[Reiter Ausrüstung] (/kbh-glossar/Ausrüstung)](/kbh-glossar/Ausrüstung).
+Grundlage der Berechnung sind die Angaben im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung)](/kbh-glossar/Ausrüstung).
 
 ### Füllhöhe von der Unterkante
 Hier wird die Füllhöhe des Maischekessels vom Boden zur Berechnung der Würzemenge beim Hopfenkochen angegeben.
