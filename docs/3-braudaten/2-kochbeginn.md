@@ -30,7 +30,7 @@ Füllhöhe von der Unterkante
 
 ### Stammwürze bei Kochbeginn
 In diesem Feld wird die Stammwürze bei Kochbeginn anhand der Daten von Bierspindel oder Refraktometer in °Plato eingetragen.
-°Brix muss vorher umgerechnet werden. Ein Klick auf das Widget rechts öffnet ein schwebbeginns Fenster und hilft bei der Berechnung.
+°Brix muss vorher umgerechnet werden. Ein Klick auf das Widget rechts öffnet ein schwebendes Fenster und hilft bei der Berechnung.
 Sind Stammwürze bei Kochbeginn und Zielstammwürze weitgehend identisch, ist dieser Zwischenwert ein Indikator für eine gut kalibrierte Brauanlage und gute Maischeführung.
 
 ### Zielstammwürze  bei Kochbeginn
@@ -44,12 +44,12 @@ Bei abweichender Temperatur muss das Volumen korrigiert werden. Ein Klick auf da
 ### Zielwürzemenge bei 20 Grad
 Hier hat der Kleine Brauhelfer die Zielwürzemenge zu Kochbeginn bei 20°C berechnet.
 Soll- und Istwerte der Würze- und Stammwürzemenge werden auf dem Spickzettel notiert, respektive vermerkt.
-Sind Zielwürzemenge und Würzemenge bei Kochbeginn weitegehend identisch, ist dieser Zwischenwert ein Indikator für eine gut kalibrierte Brauanlage und gute Maischeführung.
+Sind Zielwürzemenge und Würzemenge bei Kochbeginn weitestgehend identisch, ist dieser Zwischenwert ein Indikator für eine gut kalibrierte Brauanlage und gute Maischeführung.
 
 ### Zielwürzemenge zu Kochbeginn bei definierter Temperatur
 Hier hat der Kleine Brauhelfer die Zielwürzemenge zu Kochbeginn bei definierter Temperatur berechnet.
 Soll- und Istwerte der Würze- und Stammwürzemenge werden auf dem Spickzettel notiert, respektive vermerkt.
-Sind Zielwürzemenge und Würzemenge bei Kochbeginn weitegehend identisch, ist dieser Zwischenwert ein Indikator für eine gut kalibrierte Brauanlage und gute Maischeführung.
+Sind Zielwürzemenge und Würzemenge bei Kochbeginn weitestgehend identisch, ist dieser Zwischenwert ein Indikator für eine gut kalibrierte Brauanlage und gute Maischeführung.
 
 ### Füllhöhe von der Oberkante
 Hier wird die Füllhöhe des Maischekessels von der Oberkante zur Berechnung der Würzemenge angegeben.
@@ -57,4 +57,4 @@ Grundlage der Berechnung sind die Angaben im [Reiter Ausrüstung](/kbh-glossar/A
 
 ### Füllhöhe von der Unterkante
 Hier wird die Füllhöhe des Maischekessels vom Boden zur Berechnung der Würzemenge beim Hopfenkochen angegeben.
-Der Wert errechnet sich aus den Maßen der Anlage und der Würzemenge zum Kochenende.
+Der Wert errechnet sich aus den Maßen der Anlage und der Würzemenge zum Kochende.
