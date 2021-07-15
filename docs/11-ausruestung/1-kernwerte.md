@@ -38,7 +38,7 @@ Durchschnittswert der letzten Verdampfungsraten. Unerwünschte Sude können von 
 Je mehr Sude in die Berechnung einbezogen werden, um so aussagekräftiger wird der Durchschnittswert.
 Aber: Erfahrungsgemäß lernt der Brauer siene Anlage mit der Zahl der Sude besser kennen. Deswegen kann es besser sein die Anzahl der Sude für die Durchschnittsberechnung der Verdampfungsrate einzugrenzen.
 
-### Durchschnittsberechnung
+### Durchschnitt über die letzten Sude
 Über den nebenstehenden Schieberegler kann die Anzahl der Sude für die Durchschnittsberechnung festgelegt werden.
 Je mehr Sude in die Berechnung einbezogen werden, um so aussagekräftiger wird der Durchschnittswert.
 Aber: Erfahrungsgemäß lernt der Brauer seine Anlage mit der Zahl der Sude besser kennen. Deswegen kann es besser ein die Anzahl der Sude für die Durchschnittsberechnung einzugrenzen.
