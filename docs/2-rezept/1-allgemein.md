@@ -42,5 +42,5 @@ Einträge in diesem Feld haben keine Auswirkungen auf das Rezept.
 ### Anlage
 Die Anlage definiert die Berechnungsgrundlagen für den Kleinen Brauelfer, speziell Sudhausausbeute und Verdampfungsrate. Die Auswahl unterschiedlicher Anlagen wirkt sich direkt auf das Rezept aus, etwa auf Wassermenge und Schüttung.
 Siehe rechts die Felder Malz, Hopfen, Zusätze und Wasser sowie den Reiter Ausrüstung für weitere Informationen.
-Anlagen werden im [Tab Ausrüstung](/kbh-glossar/Ausrüstung) definiert. Zusätzlich können dort angegliederte Gerätschaften definiert werden, die für die persönliche Braukonfiguration nötig sind, aber nicht unmittelbar die Berechnungsgrundlage beeinflussen.
+Anlagen werden im [[[Reiter Ausrüstung](/kbh-glossar/Ausrüstung)](/kbh-glossar/Ausrüstung)](/kbh-glossar/Ausrüstung) definiert. Zusätzlich können dort angegliederte Gerätschaften definiert werden, die für die persönliche Braukonfiguration nötig sind, aber nicht unmittelbar die Berechnungsgrundlage beeinflussen.
 

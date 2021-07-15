@@ -42,7 +42,7 @@ Typische Werte für die Stammwürze sind:
 ### Sudhausausbeute
 Hier kann die Sudhausausbeute für den Sud angegeben werden. Im Normalfall sollte der Anlagewert übernommen werden. Wird eine andere Ausbeute erwartet, z.B. durch spezielle Malzgaben, kann der Wert hier verändert werden.
 Die Sudhausausbeute beschreibt die Effizienz der Brauanlage. Im Hobbybereich werden 70% angestrebt, tatsächlich liegt der Wert meist darunter. 60% gelten als Durchschnitt. Im Profibereich werden 80% angepeilt.
-Achtung: Die Sudhausausbeute der Anlage wird im Tab Ausrüstung eingestellt. Der Wert ist eine Kenngröße für korrekte Berechnungen im Kleinen Brauhelfer. Ist die Sudhausausbeute unbekannt, empfiehlt es sich, den voreingestellte Wert des Kleinen Brauhelfers beizubehalten. Bei einer zu positiven Annahme besteht die Gefahr eines zu dünnen Bieres: Die Wassermenge wird nicht korrekt berechnet, die angestrebte Stammwürze nicht erreicht.
+Achtung: Die Sudhausausbeute der Anlage wird im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung)](/kbh-glossar/Ausrüstung) eingestellt. Der Wert ist eine Kenngröße für korrekte Berechnungen im Kleinen Brauhelfer. Ist die Sudhausausbeute unbekannt, empfiehlt es sich, den voreingestellte Wert des Kleinen Brauhelfers beizubehalten. Bei einer zu positiven Annahme besteht die Gefahr eines zu dünnen Bieres: Die Wassermenge wird nicht korrekt berechnet, die angestrebte Stammwürze nicht erreicht.
 
 ### Hauptgussfaktor empfohlen
 Der Hauptgussfaktor beschreibt das Verhältnis Einmaischwasser zu Schüttung.
@@ -94,7 +94,7 @@ Hopfen und seine Wirkung ist eines der schwierigsten Themen der Bierbereitung. N
 
 ### Verdampfungsrate
 Hier kann die Verdampfungsrate für den Sud angegeben werden. Im Normalfall sollte der Anlagewert übernommen werden. Wird eine andere Rate erwartet, kann der Wert hier verändert werden.
-Achtung: Die Verdampungsrate der Anlage wird im Tab Ausrüstung eingestellt. Der Wert ist eine Kenngröße für korrekte Berechnungen im Kleinen Brauhelfer. Ist die Verdampfungsrate unbekannt, empfiehlt es sich, den voreingestellte Wert des Kleinen Brauhelfers beizubehalten. Bei einem zu hohen Wert besteht die Gefahr eines zu dünnen Bieres: Die Wassermenge wird nicht korrekt berechnet, die angestrebte Stammwürze nicht erreicht.
+Achtung: Die Verdampungsrate der Anlage wird im [[Reiter Ausrüstung](/kbh-glossar/Ausrüstung)](/kbh-glossar/Ausrüstung) eingestellt. Der Wert ist eine Kenngröße für korrekte Berechnungen im Kleinen Brauhelfer. Ist die Verdampfungsrate unbekannt, empfiehlt es sich, den voreingestellte Wert des Kleinen Brauhelfers beizubehalten. Bei einem zu hohen Wert besteht die Gefahr eines zu dünnen Bieres: Die Wassermenge wird nicht korrekt berechnet, die angestrebte Stammwürze nicht erreicht.
 
 ### Nachisomerisierungszeit
 Unter Nachisomerisierungszeit versteht sich geläufig die Zeitspanne zwischen 100°C und 80°C, in der Hopfen nach dem Hopfenkochen in der Heißwürze noch nahezu Kochtemperatur ausgesetzt ist und auf 80°C abkühlt. Dabei gibt der Hopfen noch einmal Bittere und Aroma ab. Bei 80°C endet die Bitterung und Hopfen gibt nur noch Aromastoffe ab. Die Kurve der Bitterabgabe flacht dabei in Richtung 80°C ab.
