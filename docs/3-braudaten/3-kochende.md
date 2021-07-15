@@ -36,7 +36,7 @@ Liegt der ermittelte Wert nahe beim zuvor errechneten Wert wie im Spickzettel od
 Die Stammwürze bei Kochende ist ein Zwischenschritt. Sie liefert Informationen über Angaben zur Anlage und den Rezeptkalkulationen sowie der Sudarbeit selbst. Ferner ist sie ein Wert, um korrigierend einzugreifen, etwa wenn die Stammwürze zu hoch sein sollte.
 
 ### Zielstammwürze nach Kochende
-Hier wird die Zielstammwürze nach Kochende angegeben. Dieser Wert enspricht der Zielstammwürze beim Anstellen zuzüglich Verdickungseffekte durch den High-Gravity Faktor.
+Hier wird die Zielstammwürze nach Kochende angegeben. Dieser Wert entspricht der Zielstammwürze beim Anstellen zuzüglich Verdickungseffekte durch den High-Gravity Faktor.
 Der Wert eignet sich zum Überprüfen von Rezept, Brauanlage und Brauprozess und gibt Auskunft, ob mögliche Korrekturen vorgenommen werden sollen.
 
 ### Würzemenge vor dem Hopfenseihen  
@@ -46,11 +46,11 @@ Dieser Wert wird für die Berechnung der Verdampfungsrate und der Sudhausausbeut
 
 ### Zielwürzemenge bei 20 Grad
 Hier wird die berechnete temperaturabhängige Zielwürzemenge nach Abkühlen des Sudes auf 20°C und vor dem Anstellen mit Hefe angegeben.
-Abhängig von Faktoren, beispielsweise Zusätze, Verdünng und Verlust beim Abfüllen, entspricht dieser Wert nicht der der im Rezept angestrebten Biermenge, ist aber ein guter Indikator, ob diese Menge erreicht wird.
+Abhängig von Faktoren, beispielsweise Zusätze, Verdünnung und Verlust beim Abfüllen, entspricht dieser Wert nicht der im Rezept angestrebten Biermenge, ist aber ein guter Indikator, ob diese Menge erreicht wird.
 
 ### Verdampfungsrate
 Hier gibt der Kleine Brauhelfer die berechnete Verdampfungsrate pro Stunde des Sudes aus.
-Der Wert fließt in die Duchschnittsberechnung im [Reiter Ausrüstung](/kbh-glossar/Ausrüstung/) ein, sofern er nicht als "zu ignorieren" gekennzeichnet wird.
+Der Wert fließt in die Durchschnittsberechnung im [Reiter Ausrüstung](/kbh-glossar/Ausrüstung/) ein, sofern er nicht als "zu ignorieren" gekennzeichnet wird.
 
 ### Verdampfungsrate aus Rezept
 Hier wird die Verdampfungsrate aus dem Rezept angegeben.
