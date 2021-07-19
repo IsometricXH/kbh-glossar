@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sonstiges
-permalink: /Braudaten/sontiges
+permalink: /Braudaten/sonstiges
 parent: Braudaten
 nav_order: 5
 ---
