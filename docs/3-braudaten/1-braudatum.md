@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Braudatum
+permalink: /Braudaten/braudatum
 parent: Braudaten
 nav_order: 1
 ---

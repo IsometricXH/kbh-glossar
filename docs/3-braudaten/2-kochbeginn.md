@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kochbeginn
+permalink: /Braudaten/kochbeginn
 parent: Braudaten
 nav_order: 2
 ---

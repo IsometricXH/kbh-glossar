@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kochende
+permalink: /Braudaten/kochende
 parent: Braudaten
 nav_order: 3
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Anstellen
+permalink: /Braudaten/anstellen
 parent: Braudaten
 nav_order: 4
 ---
