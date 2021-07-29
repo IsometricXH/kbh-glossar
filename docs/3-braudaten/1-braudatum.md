@@ -18,4 +18,6 @@ nav_order: 1
 ---
 
 ### Kapitel Braudatum
-Das Braudatum bezeichnet den Zeitpunkt, zu dem zur Würze die Hefe hinzugegeben wurde. Mit dem Braudatum endet der eigentliche Brauprozess und die Gärphase beginnt.
+Das Braudatum bezeichnet den Zeitpunkt an dem die Hefe  zur Würze hinzugegeben wurde. Mit dem Braudatum endet der eigentliche Brauprozess und die Gärphase beginnt.  
+Ein Klick auf den Schalter "Jetzt" setzt das Datum und die Uhrzeit auf die aktuelle Computerzeit. Die Zeiten sind auch manuell einstellbar.
+
