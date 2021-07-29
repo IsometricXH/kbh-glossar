@@ -7,4 +7,5 @@ permalink: /
 ---
 
 # Glossar - Kleiner Brauhelfer
-Hier ist eine Zusammenstellung der Tooltips aus dem [Kleinen Brauhelfer](https://github.com/kleiner-brauhelfer/kleiner-brauhelfer-2) zu finden.
+Hier ensteht das Glossar für den [Kleinen Brauhelfer](https://github.com/kleiner-brauhelfer/kleiner-brauhelfer-2) zu finden.  
+Aktuell ist es hauptsächlich eine Zusammenstellung der Tooltips.
