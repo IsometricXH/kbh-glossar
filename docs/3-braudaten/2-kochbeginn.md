@@ -22,7 +22,7 @@ Stammwürze bei Kochbeginn
 Zielstammwürze bei Kochbeginn  
 Würzemenge bei Kochbeginn  
 Zielwürzemenge bei 20 Grad  
-Zielwürzemenge zu Kochbeginn bei definierter Temperatur  
+Zielwürzemenge bei 100°C zu Kochbeginn  
 Füllhöhe von der Oberkante  
 Füllhöhe von der Unterkante  
 -->
@@ -30,27 +30,29 @@ Füllhöhe von der Unterkante
 ## Kapitel Kochbeginn
 
 ### Stammwürze bei Kochbeginn
-In diesem Feld wird die Stammwürze bei Kochbeginn anhand der Daten von Bierspindel oder Refraktometer in °Plato eingetragen.
-°Brix muss vorher umgerechnet werden. Ein Klick auf das Widget rechts öffnet ein schwebendes Fenster und hilft bei der Berechnung.
-Sind Stammwürze bei Kochbeginn und Zielstammwürze weitgehend identisch, ist dieser Zwischenwert ein Indikator für eine gut kalibrierte Brauanlage und gute Maischeführung.
+In diesem Feld wird die beim Brauprozess gemessene Stammwürze bei Kochbeginn in °Plato eingetragen.  
+Wenn diese Werte in °Brix gemessen wurden, müssen sie umgerechnet werden. Ein Klick auf das Widget rechts öffnet ein schwebendes Fenster mit dem die Umrechnung vorgenommen werden kann.
 
-### Zielstammwürze  bei Kochbeginn
-Hier wird die Zielstammwürze bei Kochbeginn angegeben. Dieser Wert entspricht der Zielstammwürze bei Kochende abzüglich Verdampfungsseffekten während des Kochvorgangs.
-Sind Würzemenge und Zielwürzemenge mit der Zielstammwürze weitgehend identisch, ist dies ein Indikator für eine gut kalibrierte Brauanlage und gute Maischeführung.
+### Zielstammwürze
+Hier wird die vom Kleinen Brauhelfer errechnete Zielstammwürze bei Kochbeginn in °Brix und °Plato ausgegeben.  
+Mit diesem Wert und der ebenfalls errechneten Zielwürzemenge bei Kochbeginn sollte bei Kochende die im Reiter Rezept eingetragene Stammwürze erreicht werden.  
+Für die Berechnung wird die im Reiter Rezept eingestellte Verdampfungsrate herangezogen.
 
-### Würzemenge bei Kochbeginn
-In diesem Feld wird die Würzemenge bei Kochbeginn gemessen bei 20°C eingetragen.
-Bei abweichender Temperatur muss das Volumen korrigiert werden. Ein Klick auf das Widget rechts öffnet ein schwebendes Fenster und hilft bei der Berechnung.
+### Würzemenge bei Kochbeginn (20°)
+In diesem Feld wird die bei 20°C gemessene Würzemenge bei Kochbeginn eingetragen.  
+Bei abweichender Temperatur muss das gemessene Volumen umgerechnet werden, da sich alle Mengen im Kleinen Brauhelfer auf das Volumen bei 20°C beziehen.  
+Ein Klick auf das Widget rechts, öffnet ein schwebendes Fenster in dem die gemessenen Werte eingetragen werden können, um die Berechnung vorzunehmen.  
+Die gemessene Würzemenge kann in einem Feld auf dem Spickzettel notiert werden.
 
-### Zielwürzemenge bei 20 Grad
-Hier hat der Kleine Brauhelfer die Zielwürzemenge zu Kochbeginn bei 20°C berechnet.
-Soll- und Istwerte der Würze- und Stammwürzemenge werden auf dem Spickzettel notiert, respektive vermerkt.
-Sind Zielwürzemenge und Würzemenge bei Kochbeginn weitestgehend identisch, ist dieser Zwischenwert ein Indikator für eine gut kalibrierte Brauanlage und gute Maischeführung.
+### Zielwürzemenge zu Kochbeginn bei 20°C
+Hier hat der Kleine Brauhelfer die Zielwürzemenge zu Kochbeginn bei 20°C berechnet.  
+Für die Berechnung wird die im Reiter Rezept eingestellte Verdampfungsrate herangezogen.  
+Die Zielwürzemenge wird ebenfalls auf dem Spickzettel ausgegeben.
 
-### Zielwürzemenge zu Kochbeginn bei definierter Temperatur
-Hier hat der Kleine Brauhelfer die Zielwürzemenge zu Kochbeginn bei definierter Temperatur berechnet.
-Soll- und Istwerte der Würze- und Stammwürzemenge werden auf dem Spickzettel notiert, respektive vermerkt.
-Sind Zielwürzemenge und Würzemenge bei Kochbeginn weitestgehend identisch, ist dieser Zwischenwert ein Indikator für eine gut kalibrierte Brauanlage und gute Maischeführung.
+### Zielwürzemenge bei 100°C zu Kochbeginn
+Dieses Feld zeigt die Zielwürzemenge bei 100°C bei Kochbeginn an, um eine direkte Kontrolle während des Brauprozesses zu haben.  
+Das Volumen ist höher als im abgekühlten Zustand. Über das nebenstehende Eingabefeld kann das unterschiedliche Volumen bei jeder Temperatur angezeigt werden.
+
 
 ### Füllhöhe von der Oberkante
 Hier wird die Füllhöhe des Maischekessels von der Oberkante zur Berechnung der Würzemenge angegeben.
