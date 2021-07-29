@@ -6,7 +6,7 @@ parent: Braudaten
 nav_order: 3
 ---
 
-# Kochende
+# Kapitel Kochende
 {: .no_toc }
 
 ## Inhalt
@@ -17,12 +17,11 @@ nav_order: 3
 
 ---
 
-## Kapitel Kochende
 <!---
 Stammwürze bei Kochende  
 Zielstammwürze nach Kochende  
 Würzemenge vor dem Hopfenseihen  
-Zielwürzemenge bei 20 Grad  
+Zielwürzemenge bei 20°C bei Kochende  
 Verdampfungsrate  
 Verdampfungsrate aus Rezept  
 Sudhausausbeute(SHA)  
@@ -31,42 +30,47 @@ Verlust durch das Hopfenseihen
 -->
 
 ### Stammwürze bei Kochende
-In diesem Feld wird die Stammwürze bei Kochende anhand der Daten von Bierspindel oder Refraktometer in °Plato eingetragen.
-°Brix muss vorher umgerechnet werden. Ein Klick auf das Widget rechts öffnet ein schwebendes Fenster und hilft bei der Berechnung.
-Liegt der ermittelte Wert nahe beim zuvor errechneten Wert wie im Spickzettel oder im Tab Rezept angegeben, bestätigt dies die zuvor festgelegten Parameter von Brauanlage, Rezept und Sudarbeit.
-Die Stammwürze bei Kochende ist ein Zwischenschritt. Sie liefert Informationen über Angaben zur Anlage und den Rezeptkalkulationen sowie der Sudarbeit selbst. Ferner ist sie ein Wert, um korrigierend einzugreifen, etwa wenn die Stammwürze zu hoch sein sollte.
+Analog zu den Messungen bei Kochbeginn werden die Werte für die Stammwürze in °Plato bei Kochende eingetragen.  
+Wenn diese Werte in °Brix gemessen wurden, müssen sie umgerechnet werden. Ein Klick auf das Widget rechts öffnet ein schwebendes Fenster mit dem die Umrechnung vorgenommen werden kann.
 
 ### Zielstammwürze nach Kochende
-Hier wird die Zielstammwürze nach Kochende angegeben. Dieser Wert entspricht der Zielstammwürze beim Anstellen zuzüglich Verdickungseffekte durch den High-Gravity Faktor.
-Der Wert eignet sich zum Überprüfen von Rezept, Brauanlage und Brauprozess und gibt Auskunft, ob mögliche Korrekturen vorgenommen werden sollen.
+Hier wird die vom Kleinen Brauhelfer errechnete Zielstammwürze bei Kochende in °Brix und °Plato ausgegeben.  
+Falls keine Angabe im Rezept Reiter für High-Gravity gemacht wurde, entspricht dieser Wert dem im Reiter Rezept eingetragenen Wert für die Stammwürze.
 
 ### Würzemenge vor dem Hopfenseihen  
-Hier wird die Würzemenge vor dem Hopfenseihen gemessen bei 20°C eingetragen.
-Bei abweichender Temperatur muss das Volumen korrigiert werden. Ein Klick auf das Widget rechts hilft bei der Berechnung und öffnet hierfür ein schwebendes Fenster.
-Dieser Wert wird für die Berechnung der Verdampfungsrate und der Sudhausausbeute benötigt.
+Hier wird das Volumen der Würzemenge vor dem Hopfenseihen bei 20°C eingetragen.  
+Dieser Wert wird für die Berechnung der Verdampfungsrate und der Sudhausausbeute benötigt.  
+Wie bei allen Mengenangaben ist auch hier das Volumen bei einer abweichenden Temperatur zu korrigieren.  
+Ein Klick auf das Widget rechts, öffnet ein schwebendes Fenster in dem die gemessenen Werte eingetragen werden können, um die Berechnung vorzunehmen.
 
-### Zielwürzemenge bei 20 Grad
-Hier wird die berechnete temperaturabhängige Zielwürzemenge nach Abkühlen des Sudes auf 20°C und vor dem Anstellen mit Hefe angegeben.
-Abhängig von Faktoren, beispielsweise Zusätze, Verdünnung und Verlust beim Abfüllen, entspricht dieser Wert nicht der im Rezept angestrebten Biermenge, ist aber ein guter Indikator, ob diese Menge erreicht wird.
+### Zielwürzemenge bei 20°C bei Kochende
+Hier wird die berechnete temperaturabhängige Zielwürzemenge nach Abkühlen des Sudes auf 20°C und vor dem Anstellen mit Hefe ausgegeben.  
+Für die Berechnung hat der Kleine Brauhelfer die im Reiter Rezept eingestellte Verdampfungsrate herangezogen. Weitere maßgebliche Faktoren sind z.B. geplante Zusätze und Verdünnung im High-Gravity-Verfahren.  
+Da im Brauprozess noch weitere Verluste, z.B. beim Hopfenseihen und Abfüllen entstehen, entspricht dieser Wert nicht der im Reiter Rezept angestrebten Biermenge.  
+Die Zielwürzemenge wird auf dem Spickzettel ausgegeben.
+
+### Zielwürzemenge bei 100°C bei Kochende
+Dieses Feld zeigt die Zielwürzemenge bei 100°C bei Kochende an, um eine direkte Kontrolle während des Brauprozesses zu haben.  
+Das Volumen ist höher als im abgekühlten Zustand. Über das nebenstehende Eingabefeld kann das unterschiedliche Volumen bei jeder Temperatur angezeigt werden.
 
 ### Verdampfungsrate
-Hier gibt der Kleine Brauhelfer die berechnete Verdampfungsrate pro Stunde des Sudes aus.
-Der Wert fließt in die Durchschnittsberechnung im [Reiter Ausrüstung](/kbh-glossar/Ausrüstung/) ein, sofern er nicht als "zu ignorieren" gekennzeichnet wird.
+In diesem Feld gibt der Kleine Brauhelfer die berechnete Verdampfungsrate pro Stunde des aktuellen Sudes aus.  
+Der Wert fließt in die Durchschnittsberechnung im [Reiter Ausrüstung](/kbh-glossar/Ausrüstung/) ein, ssofern er nicht in der Checkbox "Sud für die Durchschnittsberechnung ignorieren" am Ende des Reiters Braudaten gekennzeichnet wird.
 
 ### Verdampfungsrate aus Rezept
 Hier wird die Verdampfungsrate aus dem Rezept angegeben.
-Die Verdampfungsrate kann als Durchschnittswert bisheriger Sude im [Reiter Ausrüstung](/kbh-glossar/Ausrüstung/) angegeben und dann im Tab Rezept übernommen werden. Eine zweite Möglichkeit ist es, die Verdampfungsrate im Tab Rezept manuell zu definieren. Der Durchschnittswert einer Anlage im Hobbybrauerbereich liegt bei 10% und ist im Kleinen Brauhelfer im [Reiter Ausrüstung](/kbh-glossar/Ausrüstung/) voreingestellt.
+Die Verdampfungsrate kann als Durchschnittswert bisheriger Sude im [Reiter Ausrüstung](/kbh-glossar/Ausrüstung/) angegeben und dann im Reiter Rezept übernommen werden. Eine zweite Möglichkeit ist es, die Verdampfungsrate im Reiter Rezept manuell zu definieren. Der Durchschnittswert einer Anlage im Hobbybrauerbereich liegt bei 10% und ist im Kleinen Brauhelfer im [Reiter Ausrüstung](/kbh-glossar/Ausrüstung/) voreingestellt.
 Achtung: Zu Beginn der Braudatenerfassung und -berechnung im Kleinen Brauhelfer empfiehlt es sich den voreingestellten Wert nicht zu verändern. Mit spätestens zehn Suden durchschnittlich sollte sich die spezifische Verdampfungsrate der Anlage eingestellt haben.
 
 ### Sudhausausbeute(SHA)
-Die Sudhausausbeute(SHA) wird aus der gemessenen Stammwürze und Würzemenge bei Kochende berechnet. 
-Der SHA-Faktor beschreibt die Effizienz einer Brauanlage ab dem Einmaischen bis zu Anstellen des Sudes mit Hefe. Die Ausbeute der verwendeten Rohstoffe ist ein wesentlicher Bestandteil der SHA.
-Im Hobbymaßstab wird ein Faktor von 70% angestrebt, tatsächlich liegt er aber oft darunter. Ein Wert von 60% gilt als gut und ist daher im Kleinen Brauhelfer im Tab Rezept voreingestellt. Im Profibereich sind 80% Zielgröße.
+Die Sudhausausbeute (SHA) wird vom Kleinen Brauhelfer aus der gemessenen Stammwürze und Würzemenge bei Kochende berechnet. Auch dieser Wert fließt in die Durchschnittsberechnung im Reiter Ausrüstung ein, falls der Sud nicht als "zu ignorieren" markiert wird.
 
 ### Würzemenge nach dem Hopfenseihen
-Hier wird die gemessene Würzemenge nach dem Hopfenseihen umgerechnet auf 20°C eingetragen.
-Bei abweichender Temperatur muss das Volumen korrigiert werden. Ein Klick auf das Widget rechts hilft bei der Berechnung und öffnet hierfür ein schwebendes Fenster.
+Hier wird das Volumen der Würzemenge nach dem Hopfenseihen bei 20°C eingetragen.  
+Wie bei allen Mengenangaben ist auch hier das Volumen bei einer abweichenden Temperatur zu korrigieren.  
+Ein Klick auf das Widget rechts, öffnet ein schwebendes Fenster in dem die gemessenen Werte eingetragen werden können, um die Berechnung vorzunehmen.  
+Im nebenstehenden Feld "Verlust durch Hopfenseihen" wird der errechnete Verlust ausgegeben.
 
 ### Verlust durch das Hopfenseihen
-Hier wird der Würzeverlust durch das Hopfenseihen angegeben.
+Hier wird der Würzeverlust durch das Hopfenseihen angegeben.  
 Die Verlustmenge ist neben baulichen Faktoren der Anlage vom Hopfen selbst abhängig. Doldenhopfen binden deutlich mehr Flüssigkeit als Hopfenpellets wie T90 oder T45.
